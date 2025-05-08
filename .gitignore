@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+datasets/
 
 # C extensions
 *.so
@@ -135,6 +136,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv2
+*.zip
 
 # Spyder project settings
 .spyderproject
@@ -172,3 +175,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+models
